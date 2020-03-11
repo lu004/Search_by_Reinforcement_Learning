@@ -36,7 +36,7 @@ We learn by Q-learning,
 
 ## Model
 ### Predict Long-term returns of search process by RNN Model
-We use LSTM layer and FC layer \ 
+We use LSTM layer and FC layer \
 <img src="img/2.png" width="500">
 
 
