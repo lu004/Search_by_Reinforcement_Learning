@@ -4,7 +4,7 @@ Search tweets referring to news, by Deep Reinforcement Learning (PhD work)
 
 
 ### Tweet Search Problem
-![Alt text](img/1.png?raw=true "Title")
+<img src="img/1.png" width="500">
 
 
 ### Predict Long-term returns of search process by Deep Reinforcement Learning
