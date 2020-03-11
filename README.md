@@ -1,4 +1,4 @@
-# Search by Deep Reinforcement Learning
+# Search Tweets by Deep Reinforcement Learning
 Search tweets referring to news, by Deep Reinforcement Learning (PhD work)
 
 
