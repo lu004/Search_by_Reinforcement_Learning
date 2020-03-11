@@ -7,12 +7,18 @@ Search tweets referring to news, by Deep Reinforcement Learning (PhD work)
 <img src="img/1.png" width="500">
 
 
+### Model
+
+
+
+
+
 ### Predict Long-term returns of search process by Deep Reinforcement Learning
-![Alt text](img/2.png?raw=true "Title")
+<img src="img/2.png" width="500">
 
 
 
 ### Search results we found
-![Alt text](img/3.png?raw=true "Title")
+<img src="img/3.png" width="500">
 
 
