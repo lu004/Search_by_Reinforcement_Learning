@@ -23,7 +23,8 @@ Difference between current search results (tweets) and previous search results (
 E.g., one difference value is the difference value between textual contents, modeled by Word2Vec model.
 
 **Reinforcement Learning** \
-We learn by Q-learning,
+We learn by Q-learning. \
+The loss function for learning:
 
 <img src="https://latex.codecogs.com/gif.latex?(R(s_t,a_t)&plus;\gamma\&space;max_a{Q(s_{t&plus;1},a)}-Q(s_t,a_t))^2" />
 
