@@ -6,7 +6,7 @@ Search tweets referring to news, by Deep Reinforcement Learning (PhD work)
 <img src="img/1.png" width="500">
 
 
-## Search process
+## Search Process
 <img src="img/4.png" width="500">
 
 We model search process by Markov Decision Process (MDP) in Reinforcement Learning. \
@@ -40,7 +40,7 @@ We use LSTM layer and FC layer \
 <img src="img/2.png" width="500">
 
 
-## Search results we found
+## Search Results
 <img src="img/3.png" width="500">
 
 
