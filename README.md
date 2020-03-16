@@ -45,4 +45,4 @@ We use LSTM layer and FC layer \
 <img src="img/3.png" width="500">
 
 
-Please refer to [the slides](https://www.slideshare.net/JunLiLu/ss-229835399) from page 54 for more information.
+Please refer to [the slides](https://www.slideshare.net/JunLiLu/ss-230277995) from page 54 for more information.
