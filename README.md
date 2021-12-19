@@ -1,5 +1,5 @@
 # Search Tweets by Deep Reinforcement Learning
-Search tweets referring to news, by Deep Reinforcement Learning (PhD work)
+Search tweets referring to news, by Deep Reinforcement Learning
 
 
 ## Tweet Search Problem
@@ -43,6 +43,3 @@ We use LSTM layer and FC layer \
 
 ## Search Results
 <img src="img/3.png" width="500">
-
-
-Please refer to [the slides](https://www.slideshare.net/JunLiLu/ss-230277995) from page 54 for more information.
